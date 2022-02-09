@@ -1,1 +1,2 @@
-Privet, Mir!
+Privet, Mir! Salut, le Monde!
+
